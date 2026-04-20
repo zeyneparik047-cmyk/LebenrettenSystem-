@@ -1,0 +1,22 @@
+{
+  "name": "lebenretten-system",
+  "version": "1.0.0",
+  "description": "Lebenretten System - A secure system for hospitals to quickly exchange patient data in emergency situations",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'Static HTML - no build step needed'",
+    "deploy": "vercel --prod"
+  },
+  "keywords": [
+    "healthcare",
+    "emergency",
+    "hospital",
+    "patient-data"
+  ],
+  "author": "ZeyU Health",
+  "license": "SEE LICENSE IN LICENSE",
+  "dependencies": {
+    "@vercel/speed-insights": "^1.1.0"
+  }
+}
